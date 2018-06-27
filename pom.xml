@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.cdsframework</groupId>
     <artifactId>mts-ear-core</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>ear</packaging>
     <name>mts-ear-core</name>
 
@@ -16,13 +16,13 @@
         <dependency>
             <groupId>org.cdsframework</groupId>
             <artifactId>mts-ejb-core-support</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.0-SNAPSHOT</version>
             <type>ejb</type>
         </dependency>
         <dependency>
             <groupId>org.cdsframework</groupId>
             <artifactId>mts-ejb-core</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.0-SNAPSHOT</version>
             <type>ejb</type>
         </dependency>
     </dependencies>
